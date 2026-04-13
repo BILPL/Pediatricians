@@ -1,7 +1,7 @@
 {
   "pageInfo": {
-    "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad",
-    "title": "Weighted Blanket & Lap Pad for Sensory Regulation | Pinnacle Blooms",
+    "url": "https://pediatricians.pinnacleblooms.org",
+    "title": "Pinnacle - Pediatricians",
     "description": "Complete guide to therapy-grade weighted blankets for children with autism, ADHD, and sensory processing needs. 6 variants from ₹600.",
     "datePublished": "2025-01-01",
     "dateModified": "2025-12-30",
@@ -13,15 +13,15 @@
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#webpage",
-        "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad",
+        "@id": "https://pediatricians.pinnacleblooms.org#webpage",
+        "url": "https://pediatricians.pinnacleblooms.org",
         "name": "Weighted Blanket & Lap Pad for Sensory Regulation | Pinnacle Blooms",
         "description": "Complete guide to therapy-grade weighted blankets for children with autism, ADHD, and sensory processing needs. 6 variants from ₹600.",
         "isPartOf": {
           "@id": "https://pinnacleblooms.org/#website"
         },
         "about": {
-          "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#product"
+          "@id": "https://pediatricians.pinnacleblooms.org#product"
         },
         "primaryImageOfPage": {
           "@id": "https://pinnacleblooms.org/#primaryimage"
@@ -29,7 +29,7 @@
         "datePublished": "2025-01-01",
         "dateModified": "2025-12-30",
         "breadcrumb": {
-          "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#breadcrumb"
+          "@id": "https://pediatricians.pinnacleblooms.org#breadcrumb"
         },
         "inLanguage": "en-IN",
         "speakable": {
@@ -42,12 +42,12 @@
           ]
         },
         "mainEntity": {
-          "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#product"
+          "@id": "https://pediatricians.pinnacleblooms.org#product"
         }
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#breadcrumb",
+        "@id": "https://pediatricians.pinnacleblooms.org#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -76,7 +76,7 @@
       },
       {
         "@type": "Product",
-        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#product",
+        "@id": "https://pediatricians.pinnacleblooms.org#product",
         "name": "Weighted Blanket / Lap Pad Set for Sensory Regulation",
         "alternateName": [
           "Sensory Weighted Blanket",
@@ -97,7 +97,7 @@
           "@id": "https://pinnacleblooms.org/#organization"
         },
         "category": "Sensory Regulation > Deep Pressure Therapy",
-        "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad",
+        "url": "https://pediatricians.pinnacleblooms.org",
         "image": [
           "https://pinnacleblooms.org/images/products/weighted-blanket-lap-pad-hero.jpg",
           "https://pinnacleblooms.org/images/products/weighted-lap-pad-homework.jpg",
@@ -358,7 +358,7 @@
       },
       {
         "@type": "FAQPage",
-        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#faq",
+        "@id": "https://pediatricians.pinnacleblooms.org#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -444,7 +444,7 @@
       },
       {
         "@type": "HowTo",
-        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#howto",
+        "@id": "https://pediatricians.pinnacleblooms.org#howto",
         "name": "How to Use a Weighted Blanket for Sensory Regulation",
         "description": "Complete step-by-step guide to safely and effectively use weighted blankets for children with autism, ADHD, and sensory processing needs.",
         "totalTime": "PT30M",
@@ -527,7 +527,7 @@
       },
       {
         "@type": "MedicalWebPage",
-        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#medicalpage",
+        "@id": "https://pediatricians.pinnacleblooms.org#medicalpage",
         "name": "Weighted Blanket Therapy Guide - Clinical Information",
         "about": {
           "@type": "MedicalCondition",
@@ -579,8 +579,8 @@
       },
       {
         "@type": "NewsArticle",
-        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#news",
-        "mainEntityOfPage": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad",
+        "@id": "https://pediatricians.pinnacleblooms.org#news",
+        "mainEntityOfPage": "https://pediatricians.pinnacleblooms.org",
         "headline": "Complete Guide to Weighted Blankets for Autism - 2025 Edition",
         "alternativeHeadline": "Therapy-Grade Weighted Blankets: Selection, Safety & Usage for Children with Sensory Needs",
         "description": "Comprehensive expert guide to selecting and using weighted blankets for children with autism, ADHD, and sensory processing disorders.",
@@ -613,7 +613,7 @@
       },
       {
         "@type": "VideoObject",
-        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#video",
+        "@id": "https://pediatricians.pinnacleblooms.org#video",
         "name": "How to Use Weighted Blankets for Sensory Regulation - Complete Guide",
         "description": "Step-by-step video guide showing proper weighted blanket selection, safety guidelines, and usage techniques.",
         "thumbnailUrl": "https://pinnacleblooms.org/images/video/weighted-blanket-thumb.jpg",
@@ -662,7 +662,7 @@
       },
       {
         "@type": "HealthTopicContent",
-        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#healthcontent",
+        "@id": "https://pediatricians.pinnacleblooms.org#healthcontent",
         "name": "Deep Pressure Therapy for Sensory Regulation",
         "about": {
           "@type": "MedicalTherapy",
@@ -689,12 +689,12 @@
       },
       {
         "@type": "ClaimReview",
-        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#evidence",
-        "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#evidence",
+        "@id": "https://pediatricians.pinnacleblooms.org#evidence",
+        "url": "https://pediatricians.pinnacleblooms.org#evidence",
         "claimReviewed": "Weighted blankets provide deep pressure that may help activate the parasympathetic nervous system, promoting calmer states in children with sensory processing needs",
         "itemReviewed": {
           "@type": "Claim",
-          "appearance": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad"
+          "appearance": "https://pediatricians.pinnacleblooms.org"
         },
         "author": {
           "@id": "https://pinnacleblooms.org/#organization"
@@ -725,7 +725,7 @@
               "@type": "ListItem",
               "position": 1,
               "name": "Weighted Blanket / Lap Pad",
-              "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad"
+              "url": "https://pediatricians.pinnacleblooms.org"
             },
             {
               "@type": "ListItem",
@@ -785,7 +785,7 @@
       },
       {
         "@type": "ItemList",
-        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#variants",
+        "@id": "https://pediatricians.pinnacleblooms.org#variants",
         "name": "Weighted Blanket Product Variants",
         "description": "Complete range of weighted blanket and lap pad variants for different ages and use cases",
         "numberOfItems": 6,
@@ -795,37 +795,37 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Weighted Lap Pad (₹600-1500)",
-            "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#lap-pad"
+            "url": "https://pediatricians.pinnacleblooms.org#lap-pad"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Weighted Blanket Small (₹1200-2500)",
-            "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#blanket-small"
+            "url": "https://pediatricians.pinnacleblooms.org#blanket-small"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Weighted Blanket Medium (₹1800-4000)",
-            "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#blanket-medium"
+            "url": "https://pediatricians.pinnacleblooms.org#blanket-medium"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Weighted Shoulder Wrap (₹800-2000)",
-            "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#shoulder-wrap"
+            "url": "https://pediatricians.pinnacleblooms.org#shoulder-wrap"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "Weighted Stuffed Animal (₹1000-2500)",
-            "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#stuffed-animal"
+            "url": "https://pediatricians.pinnacleblooms.org#stuffed-animal"
           },
           {
             "@type": "ListItem",
             "position": 6,
             "name": "Weighted Snake/Tube (₹700-1800)",
-            "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#snake-tube"
+            "url": "https://pediatricians.pinnacleblooms.org#snake-tube"
           }
         ]
       }
@@ -871,7 +871,7 @@
       },
       {
         "name": "DC.identifier",
-        "content": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad"
+        "content": "https://pediatricians.pinnacleblooms.org"
       },
       {
         "name": "DC.language",
@@ -1109,31 +1109,31 @@
     "shareButtons": [
       {
         "platform": "facebook",
-        "url": "https://www.facebook.com/sharer/sharer.php?u=https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad",
+        "url": "https://www.facebook.com/sharer/sharer.php?u=https://pediatricians.pinnacleblooms.org",
         "label": "Share on Facebook",
         "onclick": "trackShare('facebook')"
       },
       {
         "platform": "twitter",
-        "url": "https://twitter.com/intent/tweet?url=https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad&text=Weighted%20Blanket%20for%20Autism",
+        "url": "https://twitter.com/intent/tweet?url=https://pediatricians.pinnacleblooms.org&text=Weighted%20Blanket%20for%20Autism",
         "label": "Share on X",
         "onclick": "trackShare('twitter')"
       },
       {
         "platform": "linkedin",
-        "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad",
+        "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://pediatricians.pinnacleblooms.org",
         "label": "Share on LinkedIn",
         "onclick": "trackShare('linkedin')"
       },
       {
         "platform": "whatsapp",
-        "url": "https://api.whatsapp.com/send?text=Weighted%20Blanket%20for%20Autism%20https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad",
+        "url": "https://api.whatsapp.com/send?text=Weighted%20Blanket%20for%20Autism%20https://pediatricians.pinnacleblooms.org",
         "label": "Share on WhatsApp",
         "onclick": "trackShare('whatsapp')"
       },
       {
         "platform": "telegram",
-        "url": "https://t.me/share/url?url=https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad&text=Weighted%20Blanket%20for%20Autism",
+        "url": "https://t.me/share/url?url=https://pediatricians.pinnacleblooms.org&text=Weighted%20Blanket%20for%20Autism",
         "label": "Share on Telegram",
         "onclick": "trackShare('telegram')"
       }
