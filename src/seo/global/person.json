@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://pinnacleblooms.org/#founder",
+  "name": "Saripalli Koti Reddy",
+  "alternateName": ["Koti Reddy", "Koti Reddy Saripalli", "S. Koti Reddy"],
+  "givenName": "Koti Reddy",
+  "familyName": "Saripalli",
+  "jobTitle": "Founder & Chairman",
+  "description": "Founder of Pinnacle Blooms Network, India's largest autism therapy network with 70+ centers across India. Creator of GPT-OS® - India's first AI-powered therapy technology platform. Chief Architect of NavaBharathAI™ Employability Operating System.",
+  "image": "https://pinnacleblooms.org/images/team/koti-reddy-saripalli.jpg",
+  "url": "https://pinnacleblooms.org/about/founder",
+  "birthDate": "1981-06-24",
+  "birthPlace": {
+    "@type": "Place",
+    "name": "Gudivada, Andhra Pradesh, India"
+  },
+  "nationality": {
+    "@type": "Country",
+    "name": "India"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/in/kotireddy",
+    "https://twitter.com/kotireddy"
+  ],
+  "worksFor": {
+    "@id": "https://pinnacleblooms.org/#organization"
+  },
+  "affiliation": {
+    "@id": "https://pinnacleblooms.org/#organization"
+  },
+  "knowsAbout": [
+    "Autism Spectrum Disorder",
+    "Child Development",
+    "Healthcare Technology",
+    "AI in Healthcare",
+    "Digital Public Infrastructure",
+    "Occupational Therapy",
+    "Speech Language Pathology",
+    "Applied Behavior Analysis"
+  ],
+  "memberOf": [
+    {
+      "@type": "Organization",
+      "name": "Koti Group"
+    }
+  ],
+  "award": [
+    "Pioneer of GPT-OS® Technology",
+    "Creator of AbilityScore® Diagnostic",
+    "Architect of NavaBharathAI™"
+  ]
+}

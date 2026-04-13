@@ -1,0 +1,168 @@
+{
+  "@context": "https://schema.org",
+  "gptos": {
+    "@type": "SoftwareApplication",
+    "@id": "https://pinnacleblooms.org/#gptos",
+    "name": "GPT-OS®",
+    "alternateName": ["Guided Precision Therapy Operating System", "GPT-OS Platform"],
+    "description": "India's first AI-powered therapy technology platform for autism and child development. Includes AbilityScore® diagnostic assessment (70% faster than traditional methods), TherapeuticAI® intervention planning, and EverydayTherapyProgramme™ home therapy protocols. Powers 70+ Pinnacle centers with 21+ million therapy sessions.",
+    "applicationCategory": "HealthApplication",
+    "applicationSubCategory": "Therapy Management System",
+    "operatingSystem": "Web, iOS, Android",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock"
+    },
+    "featureList": [
+      "AbilityScore® Diagnostic Assessment - 70% faster",
+      "TherapeuticAI® Intervention Planning",
+      "EverydayTherapyProgramme™ Home Therapy",
+      "Progress Tracking Dashboard",
+      "Parent-Therapist Communication Portal",
+      "97% Improvement Rate Tracking"
+    ],
+    "author": {
+      "@id": "https://pinnacleblooms.org/#founder"
+    },
+    "creator": {
+      "@id": "https://pinnacleblooms.org/#founder"
+    },
+    "provider": {
+      "@id": "https://pinnacleblooms.org/#organization"
+    },
+    "screenshot": [
+      "https://pinnacleblooms.org/images/gptos/dashboard.jpg",
+      "https://pinnacleblooms.org/images/gptos/abilityscore.jpg"
+    ]
+  },
+  "mobileApp": {
+    "@type": "MobileApplication",
+    "@id": "https://pinnacleblooms.org/#app",
+    "name": "Pinnacle Blooms Network",
+    "alternateName": "MIRRACLE by Pinnacle",
+    "description": "Official Pinnacle Blooms Network app for therapy tracking, session feedback, progress monitoring, and parent-therapist communication. Powered by GPT-OS® technology.",
+    "applicationCategory": "HealthApplication",
+    "operatingSystem": "Android 5.0+, iOS 12.0+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.1",
+      "ratingCount": "303",
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "downloadUrl": [
+      "https://play.google.com/store/apps/details?id=com.mirracle",
+      "https://apps.apple.com/app/pinnacle-blooms-network/id1447730688"
+    ],
+    "installUrl": "https://mirracle.pinnacleblooms.org",
+    "screenshot": [
+      "https://pinnacleblooms.org/images/app/screenshot-1.jpg",
+      "https://pinnacleblooms.org/images/app/screenshot-2.jpg"
+    ],
+    "author": {
+      "@id": "https://pinnacleblooms.org/#organization"
+    },
+    "softwareVersion": "Latest",
+    "datePublished": "2019-02-25",
+    "inLanguage": ["en", "hi", "te"],
+    "permissions": "Camera (optional), Notifications"
+  },
+  "helpline": {
+    "@type": "Service",
+    "@id": "https://pinnacleblooms.org/helpline#service",
+    "name": "Pinnacle Blooms FREE National Autism Helpline",
+    "alternateName": ["National Autism Helpline", "Pinnacle Helpline"],
+    "description": "Free guidance service for autism, developmental delays, and child development questions. Available in 16+ languages.",
+    "provider": {
+      "@id": "https://pinnacleblooms.org/#organization"
+    },
+    "serviceType": "Phone Consultation",
+    "areaServed": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "availableChannel": {
+      "@type": "ServiceChannel",
+      "serviceUrl": "https://pinnacleblooms.org/helpline",
+      "servicePhone": "+919100181181",
+      "availableLanguage": [
+        "English",
+        "Hindi",
+        "Telugu",
+        "Tamil",
+        "Kannada",
+        "Malayalam",
+        "Bengali",
+        "Marathi",
+        "Gujarati",
+        "Punjabi",
+        "Odia",
+        "Assamese",
+        "Urdu"
+      ]
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR"
+    },
+    "hoursAvailable": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "08:00",
+      "closes": "20:00"
+    },
+    "termsOfService": "https://pinnacleblooms.org/terms"
+  },
+  "academy": {
+    "@type": "EducationalOrganization",
+    "@id": "https://pinnacleblooms.org/#education",
+    "name": "Pinnacle Blooms Academy",
+    "alternateName": "Pinnacle Special Education & Training",
+    "description": "Special education and therapy training division of Pinnacle Blooms Network. Offers parent training and professional certification programs.",
+    "url": "https://pinnacleblooms.org/academy",
+    "parentOrganization": {
+      "@id": "https://pinnacleblooms.org/#organization"
+    },
+    "educationalCredentialAwarded": [
+      "Certificate in Therapy Assistance",
+      "Parent Training Certificate"
+    ],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Training Programs",
+      "itemListElement": [
+        {
+          "@type": "Course",
+          "name": "Parent Training Program",
+          "description": "Training parents to support therapy at home using EverydayTherapyProgramme™"
+        },
+        {
+          "@type": "Course",
+          "name": "Therapy Assistant Certification",
+          "description": "Professional certification for therapy assistants"
+        },
+        {
+          "@type": "Course",
+          "name": "Special Educator Training",
+          "description": "Training for special education teachers"
+        }
+      ]
+    }
+  }
+}

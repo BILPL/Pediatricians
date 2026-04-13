@@ -1,0 +1,160 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://pinnacleblooms.org/#organization",
+  "name": "Pinnacle Blooms Network Pvt. Ltd.",
+  "alternateName": ["Pinnacle Blooms", "PBN", "Pinnacle Blooms Network"],
+  "legalName": "Pinnacle Blooms Network Private Limited",
+  "url": "https://pinnacleblooms.org",
+  "logo": {
+    "@type": "ImageObject",
+    "@id": "https://pinnacleblooms.org/#logo",
+    "url": "https://pinnacleblooms.org/images/brand/logo.png",
+    "contentUrl": "https://pinnacleblooms.org/images/brand/logo.png",
+    "width": 600,
+    "height": 200,
+    "caption": "Pinnacle Blooms Network Logo"
+  },
+  "image": "https://pinnacleblooms.org/images/brand/logo.png",
+  "description": "India's largest child development and autism therapy network with 70+ centers. Pioneer of GPT-OS® therapy technology. 21+ million therapy sessions delivered with 97% improvement rates.",
+  "slogan": "Empowering Every Child's Potential",
+  "foundingDate": "2010",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Hyderabad, India"
+  },
+  "founder": {
+    "@id": "https://pinnacleblooms.org/#founder"
+  },
+  "numberOfEmployees": {
+    "@type": "QuantitativeValue",
+    "minValue": 500,
+    "maxValue": 1000
+  },
+  "telephone": "+919100181181",
+  "email": "care@pinnacleblooms.org",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bhagyanagar Human Development Corridor",
+    "addressLocality": "Hyderabad",
+    "addressRegion": "Telangana",
+    "postalCode": "500033",
+    "addressCountry": "IN"
+  },
+  "areaServed": [
+    {
+      "@type": "Country",
+      "name": "India"
+    },
+    {
+      "@type": "State",
+      "name": "Telangana"
+    },
+    {
+      "@type": "State",
+      "name": "Andhra Pradesh"
+    },
+    {
+      "@type": "State",
+      "name": "Karnataka"
+    },
+    {
+      "@type": "State",
+      "name": "Tamil Nadu"
+    },
+    {
+      "@type": "State",
+      "name": "Maharashtra"
+    }
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/company/pinnacle-blooms-network",
+    "https://www.facebook.com/pinnacleblooms",
+    "https://twitter.com/pinnacleblooms",
+    "https://www.instagram.com/pinnacleblooms",
+    "https://www.youtube.com/@PinnacleBloomsNetwork",
+    "https://play.google.com/store/apps/details?id=com.mirracle",
+    "https://apps.apple.com/app/pinnacle-blooms-network/id1447730688"
+  ],
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "+919100181181",
+      "contactType": "customer service",
+      "contactOption": "TollFree",
+      "availableLanguage": [
+        "English",
+        "Hindi",
+        "Telugu",
+        "Tamil",
+        "Kannada",
+        "Malayalam",
+        "Bengali",
+        "Marathi",
+        "Gujarati"
+      ],
+      "areaServed": "IN",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "08:00",
+        "closes": "20:00"
+      }
+    },
+    {
+      "@type": "ContactPoint",
+      "telephone": "+919100181181",
+      "contactType": "sales",
+      "availableLanguage": ["English", "Hindi", "Telugu"],
+      "areaServed": "IN"
+    }
+  ],
+  "award": [
+    "India's Largest Autism Therapy Network",
+    "21+ Million Therapy Sessions Delivered",
+    "97% Improvement Rate"
+  ],
+  "knowsAbout": [
+    "Autism Spectrum Disorder",
+    "Child Development",
+    "Occupational Therapy",
+    "Speech Language Pathology",
+    "Applied Behavior Analysis",
+    "Sensory Processing Disorder"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Therapy Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Occupational Therapy"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Speech Therapy"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "ABA Therapy"
+        }
+      }
+    ]
+  }
+}
