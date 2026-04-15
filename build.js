@@ -224,7 +224,7 @@ for (const file of fs.readdirSync(PAGES)) {
   //  const contentWithPdf = injectBeforeLastBlock(content, pdfViewer);
 
   const finalHtml = template
-    .replace("{{SEO}}", buildSEO(pageName))
+    // .replace("{{SEO}}", buildSEO(pageName))
     .replace("{{HEADER}}", header)
     .replace("{{CONTENT}}", content)
     .replace("{{FOOTER}}", footer);
