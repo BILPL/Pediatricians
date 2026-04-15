@@ -1,9 +1,13 @@
 {
-    "name": "seo-static-build",
+  "name": "seo-static-build",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "build": "node build.js"
+    "build": "node build.js",
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.82.2"
   }
 }
-
