@@ -87,9 +87,15 @@ body {
     border-radius: 2px;
 }
 
-.node-labelGroup.animatable-on-load {
-    min-height: 40px; /* adjust to match actual rendered height */
-    contain: layout;
+[class*="animatable-on-load"] {
+  contain: layout style;
+  will-change: opacity, transform;   /* compositor-only — no reflow */
+  transform: translateZ(0);
+}
+
+.node-labelGroup {
+  min-height: 120px;                 /* set to actual rendered height */
+  overflow: hidden;
 }
     </style>
 </head>
