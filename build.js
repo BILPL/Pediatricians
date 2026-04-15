@@ -16,7 +16,11 @@ const SEO = path.join(SRC, "seo");
 const ASSETS = path.join(SRC, "assets");
 
 /* ---------------- UTILS ---------------- */
-const read = p => fs.readFileSync(p, "utf8");
+//const read = p => fs.readFileSync(p, "utf8");
+const read = p => {
+  let content = fs.readFileSync(p, "utf8");
+  return Buffer.from(content, 'utf8').toString('utf8');
+};
 const readJSON = p => JSON.parse(read(p));
 
 function cleanDir(dir) {
